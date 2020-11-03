@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+# RSoft
 
-You can use the [editor on GitHub](https://github.com/rsoft-in/rsoft-in.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Contributing to the society...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Us
+
+We are a team of young and innovative minds, dedicated to deliver quality 
+service with a difference. We are into Desktop Applications, Web Applications, 
+Mobile Applications for Android and iOS and much more. We provide offshore IT 
+development services in Web Development, Migration of VFP applications and 
+legacy applications to Web Applications, Mobile application Development, 
+Responsive Web Applications. We are best at what we do.
 
 ### Markdown
 
