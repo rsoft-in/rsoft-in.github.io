@@ -1,7 +1,3 @@
-# RSoft
-
-Contributing to the society...
-
 ## About Us
 
 We are a team of young and innovative minds, dedicated to deliver quality 
