@@ -15,6 +15,6 @@ The Information Technology is ever evolving Industry and new developments and co
 
 ### What we have achieved
 
-We have laid hands on various functional areas in computing, that cater to wide range of Industries and use cases. Logistic and Distribution Systems, Account and Financial Services, Event Management Services, Data Exchange Mechanism, 
+We have worked on various large and medium scale projects, that cater to wide range of Industries and use cases. Logistic and Distribution Systems, Account and Financial Services, Event Management Services, Data Exchange Mechanisms, Retail Online Shopping, Consumer Loyalty Programs and much more. 
 
 ### What are we working on now
